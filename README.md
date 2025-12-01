@@ -20,7 +20,7 @@ Automate job data extraction from Workable.com, one of the leading job platforms
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.3` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
@@ -32,6 +32,23 @@ Here are some typical scenarios in which the Workable.com Scraper can be useful:
 - **Recruiters** can use the scraper to monitor market trends and competitor job postings
 - **HR Professionals** can use the scraper to analyze hiring patterns and salary ranges
 - **Market Researchers** can use the scraper to study employment trends across different industries and regions
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `workable-com-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Input 📥
 
